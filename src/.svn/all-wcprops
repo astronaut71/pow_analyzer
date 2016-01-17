@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/cas/Assistive_Robotics/svn/!svn/ver/4000/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src
+END
+speed_node_hector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3991/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/speed_node_hector.cpp
+END
+wst_forward10m_raw_assess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3878/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/wst_forward10m_raw_assess.cpp
+END
+pida_ramp_down_asses.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3883/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/pida_ramp_down_asses.cpp
+END
+beds_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3976/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/beds_node.cpp
+END
+ekf_odom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3876/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/ekf_odom.cpp
+END
+scan_fix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3876/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/scan_fix.cpp
+END
+amcl_odom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3876/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/amcl_odom.cpp
+END
+pida_turn_180deg_asses.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3958/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/pida_turn_180deg_asses.cpp
+END
+doors_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/cas/Assistive_Robotics/svn/!svn/ver/4000/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/doors_node.cpp
+END
+converter_ekf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3931/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/converter_ekf.cpp
+END
+speed_node_amcl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3911/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/speed_node_amcl.cpp
+END
+ekf_repub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3877/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/ekf_repub.cpp
+END
+speed_node_mod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3877/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/speed_node_mod.cpp
+END
+speed_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/cas/Assistive_Robotics/svn/!svn/ver/1794/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/speed_node.cpp
+END
+hector_odometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3831/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/hector_odometry.cpp
+END
+ekf_odom_timestamp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3877/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/ekf_odom_timestamp.cpp
+END
+converter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/projects/cas/Assistive_Robotics/svn/!svn/ver/3876/prince_wales_hosp/dev/ros/Fuerte/utils/pow_analyzer/src/converter.cpp
+END
